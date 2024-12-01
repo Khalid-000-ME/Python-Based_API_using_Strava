@@ -1,0 +1,6 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+CLIENT_ID=abc123
+CLIENT_SECRET=xyz456
+ACCESS_TOKEN=my_access_token
+REFRESH_TOKEN=my_refresh_token
+BASE_PORT=5000
